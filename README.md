@@ -23,5 +23,5 @@ The project incorporates diverse technologies including Python, Amazon Web Servi
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
-Here is the dataset used in the video - https://github.com/Lakshya-GG/Stock-Market-Data-Engineering/blob/main/indexProcessed.csv
+Here is the dataset used in the video - https://github.com/Lakshya-GG/Marketflow/blob/main/indexProcessed.csv
 
